@@ -1,1 +1,2 @@
-Raspberry-pi alarm
+One night, my phone broke and I realized I had school the next morning. to make sure I woke up on time,
+i built a simple alarm system using a Raspberry Pi, a breadboard, a passive buzzer module, jumper wires, and a resistor. I designed the circuit, connected it to the Raspberry Pi’s GPIO pins, and wrote a Python script to trigger the buzzer at a set time. The project worked successfully and woke me up the next morning.
